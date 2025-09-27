@@ -12,4 +12,6 @@ int main()
     cout << "Selamat Datang" << endl;
     cout << "Selamat Datang" << endl;
     cout << "Selamat Datang" << endl;
+
+    cout << "Ini adalah push yang kedua";
 }
